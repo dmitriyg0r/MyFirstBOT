@@ -6,8 +6,8 @@ import telebot
 from telebot import types
 url = 'http://api.openweathermap.org/data/2.5/weather'
 api_weather = '59e6f736d88244f7d6010be2894a4a89'
-api_telegram = '1446950318:AAENEu41unb4y8RZK5Y_RctTCstO40wrv38'
-bot = telebot.TeleBot("1446950318:AAENEu41unb4y8RZK5Y_RctTCstO40wrv38")
+api_telegram = 'Enter your telegram API'
+bot = telebot.TeleBot("Enter your telegram API")
 kost_list = ['CAACAgIAAxkBAAEB6x5gNszBk2bIv3Ee4VDnSyPWdM8jzgAC3MYBAAFji0YMsbUSFEouGv8eBA',
              'CAACAgIAAxkBAAEB6yBgNs04EirgTD1TG5t1ao2-1tocbQAC3cYBAAFji0YM608pO-wjAlEeBA',
              'CAACAgIAAxkBAAEB6yJgNs1onI2TuU0qwXhdksh99yq3ywAC3sYBAAFji0YMVHH9hav7ILkeBA',
